@@ -1,0 +1,8 @@
+Diagnostics:
+  Suppress:
+    - expected_namespace_name
+    - undeclared_var_use
+    - expected_unqualified_id
+    - blocks_support_disabled
+    - block_pointer_non_function
+    - unknown_typename
